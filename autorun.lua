@@ -43,7 +43,7 @@ gpu.fill(1, 1, 80, 25, " ")
 -- Выводим надпись "SniwOS"
 gpu.setBackground(0x0000FF)
 gpu.setForeground(0xFFFFFF)
-gpu.set(34, 12, "MaynerOS")
+gpu.set(34, 12, "SniwOS")
 
 -- Выводим полосу загрузки рядом с надписью
 drawLoadingBar()
