@@ -2,7 +2,7 @@
 --Loading System
 
 
-xxxlocal component = require("component")
+local component = require("component")
 local event = require("event")
 local gpu = component.gpu
 
